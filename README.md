@@ -32,7 +32,7 @@ The Tableau workbook file is quite large and may not be previewed on GitHub. To 
 3. Press the `Download` button, or use the `View Raw` link to start the download process.
 
 ## Data Sources and Updates
-The data used in this dashboard is sourced from [Name of Data Source] and is updated [frequency of updates]. The current version of the dashboard includes data up to [most recent date of data].
+The data used in this dashboard is sourced from NYC OPEN DATA and is updated lastly 2022. The current version of the dashboard includes data up to 2022.
 
 ## Contributing
 We welcome contributions from the community! If you would like to contribute to the project, please fork the repository, make your changes, and submit a pull request.
